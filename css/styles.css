@@ -210,7 +210,6 @@ body {
 }
 
 .doing-list {
-    margin-bottom: 120px;
     display: flex;
     align-items: center; 
     gap: 24px;
@@ -287,6 +286,7 @@ body {
 }
 .footer-logo {
     margin-top: 100px;
+    
 }
 
 .footer-logo-text {
